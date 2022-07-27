@@ -1,3 +1,70 @@
 <resources>
-    <string name="app_name">FYP</string>
+    <string name="app_name">FinalYearProject</string>
+    <string name="menu">Main Menu</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="Login">Username (Patients) / Email (Doctors)</string>
+    <string name="patient">Patient Page</string>
+    <string name="book">Book Appointment</string>
+    <string name="message">Message Doctor</string>
+    <string name="appointment">View Appointments</string>
+    <string name="logout">Logout</string>
+    <string name="date">Date of Appointment</string>
+    <string name="doctor">Doctor Page</string>
+    <string name="messageDoctor">Message Patient</string>
+    <string name="deleteApp">Delete Appointment</string>
+    <string name="admin">Admin Page</string>
+    <string name="patientManagement">Manage Patients</string>
+    <string name="doctorManagement">Manage Doctors</string>
+    <string name="appointmentManagement">Manage Appointments</string>
+    <string name="addAppointment">Add Appointment</string>
+    <string name="editAppointment">Edit Appointment</string>
+    <string name="addPatient">Add Patient</string>
+    <string name="editPatient">Edit Patient</string>
+    <string name="deletePatient">Delete Patient</string>
+    <string name="edit">Edit</string>
+    <string name="addDoctor">Add Doctor</string>
+    <string name="editDoctor">Edit Doctor</string>
+    <string name="deleteDoctor">Delete Doctor</string>
+    <string name="messaging">Enter Message</string>
+    <string name="send">Send Message</string>
+    <string name="back">Back</string>
+    <string name="admins">Manage administrator</string>
+    <string name="promote">Promote</string>
+    <string name="demote">Demote</string>
+    <string name="prescription">Create Prescription</string>
+    <string name="pre">View Prescriptions</string>
+    <string name="name">Medicine name</string>
+    <string name="dosage">Dosage (mg)</string>
+    <string-array name="times">
+        <item>08:00</item>
+        <item>08:30</item>
+        <item>09:00</item>
+        <item>09:30</item>
+        <item>10:00</item>
+        <item>10:30</item>
+        <item>11:00</item>
+        <item>11:30</item>
+        <item>12:00</item>
+        <item>12:30</item>
+        <item>13:00</item>
+        <item>13:30</item>
+        <item>14:00</item>
+        <item>14:30</item>
+        <item>15:00</item>
+        <item>15:30</item>
+        <item>16:00</item>
+        <item>16:30</item>
+        <item>17:00</item>
+        <item>17:30</item>
+        <item>18:00</item>
+        <item>18:30</item>
+        <item>19:00</item>
+        <item>19:30</item>
+    </string-array>
 </resources>
